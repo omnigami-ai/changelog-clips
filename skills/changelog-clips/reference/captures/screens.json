@@ -1,0 +1,252 @@
+{
+  "url": "http://127.0.0.1:4400/?theme=light#/settings",
+  "viewport": [
+    390,
+    1100
+  ],
+  "captures": {
+    "before": {
+      "file": "before@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "light",
+        "preference": "light",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "hover": {
+      "file": "hover@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "light",
+        "preference": "light",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "pressed": {
+      "file": "pressed@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "light",
+        "preference": "light",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-00": {
+      "file": "change-00@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-01": {
+      "file": "change-01@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-02": {
+      "file": "change-02@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-03": {
+      "file": "change-03@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-04": {
+      "file": "change-04@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-05": {
+      "file": "change-05@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "change-06": {
+      "file": "change-06@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "changed": {
+      "file": "changed@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    },
+    "result": {
+      "file": "result@4.png",
+      "scale": 4,
+      "rect": [
+        10,
+        359.3,
+        370,
+        283
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Light\nWarm linen, in any light.\nDark\nA softer screen after sundown.\nMatch system\nFollow your device\u2019s appearance."
+      }
+    }
+  },
+  "rects": {
+    "before": {
+      "page": [
+        0,
+        0,
+        390,
+        1100
+      ],
+      "piece": [
+        20,
+        369.3,
+        350,
+        263
+      ],
+      "target": [
+        20,
+        460.3,
+        350,
+        81
+      ]
+    },
+    "result": {
+      "page": [
+        0,
+        0,
+        390,
+        1100
+      ],
+      "piece": [
+        20,
+        369.3,
+        350,
+        263
+      ],
+      "target": [
+        20,
+        460.3,
+        350,
+        81
+      ]
+    }
+  },
+  "typed": {},
+  "animations": {
+    "change": {
+      "fps": 30,
+      "frames": 7,
+      "duration": 0.2,
+      "found": []
+    }
+  }
+}

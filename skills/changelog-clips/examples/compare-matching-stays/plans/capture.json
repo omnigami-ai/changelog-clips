@@ -1,0 +1,76 @@
+{
+  "url": "http://127.0.0.1:4400/?theme=dark#/chat/lake-cabin",
+  "viewport": [
+    390,
+    1100
+  ],
+  "format": "png",
+  "ready": ".matches-panel",
+  "setup": "capture-setup.mjs",
+  "rects": {
+    "piece": ".matches-panel",
+    "target": "[data-action=\"all\"]"
+  },
+  "inspect": "(() => ({theme:OstleryTheme.resolved,preference:OstleryTheme.preference,animations:document.getAnimations().map(a=>a.animationName||a.transitionProperty),words:document.querySelector('.matches-panel').innerText}))()",
+  "steps": [
+    {
+      "rects": "before"
+    },
+    {
+      "capture": "before",
+      "around": ".matches-panel",
+      "pad": 0,
+      "scale": 4
+    },
+    {
+      "eval": "capturePointer('move', '[data-action=\"all\"]')",
+      "settle": 0
+    },
+    {
+      "capture": "hover",
+      "around": ".matches-panel",
+      "pad": 0,
+      "scale": 4
+    },
+    {
+      "eval": "capturePointer('down')",
+      "settle": 0
+    },
+    {
+      "capture": "pressed",
+      "around": ".matches-panel",
+      "pad": 0,
+      "scale": 4
+    },
+    {
+      "animate": {
+        "eval": "capturePointer('up')"
+      },
+      "capture": "change",
+      "around": ".matches-panel",
+      "pad": 2,
+      "scale": 4,
+      "duration": 0.2,
+      "fps": 30
+    },
+    {
+      "capture": "changed",
+      "around": ".matches-panel",
+      "pad": 0,
+      "scale": 4
+    },
+    {
+      "eval": "capturePointer('clear'); document.activeElement.blur()",
+      "settle": 0
+    },
+    {
+      "rects": "result"
+    },
+    {
+      "capture": "result",
+      "around": ".matches-panel",
+      "pad": 0,
+      "scale": 4
+    }
+  ]
+}

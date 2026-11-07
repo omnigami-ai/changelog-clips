@@ -1,0 +1,30 @@
+{
+  "name": "omnigami-changelog-clips",
+  "displayName": "Changelog clips",
+  "version": "1.0.0",
+  "description": "Make one short UI demo per shipped change from a web app's real screens. Delivers separate silent web, square and portrait MP4/WebM clips, result posters and editable source. Use for changelog media, release-note loops and individual feature-update clips; use a whole release-film skill for a montage.",
+  "author": {
+    "name": "omnigami",
+    "url": "https://omnigami.ai"
+  },
+  "homepage": "https://omnigami.ai/skills/changelog-clips",
+  "repository": "https://github.com/omnigami-ai/changelog-clips",
+  "documentationUrl": "https://github.com/omnigami-ai/changelog-clips#readme",
+  "supportUrl": "https://omnigami.ai/#questions",
+  "privacyPolicyUrl": "https://omnigami.ai/legal/privacy",
+  "termsOfServiceUrl": "https://omnigami.ai/legal/terms",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "changelog",
+    "feature update",
+    "motion graphics",
+    "product video",
+    "release notes",
+    "release video",
+    "video",
+    "feature announcement",
+    "announcement",
+    "product demo",
+    "omnigami"
+  ]
+}

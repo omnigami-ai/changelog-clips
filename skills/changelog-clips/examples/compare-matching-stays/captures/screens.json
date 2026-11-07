@@ -1,0 +1,252 @@
+{
+  "url": "http://127.0.0.1:4400/?theme=dark#/chat/lake-cabin",
+  "viewport": [
+    390,
+    1100
+  ],
+  "captures": {
+    "before": {
+      "file": "before@4.png",
+      "scale": 4,
+      "rect": [
+        16,
+        350.88,
+        358,
+        357.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow all 6\nLakefront\nBest fit\nHeron Point Cabin\n\nLake Wenatchee \u00b7 2 h 20 min\n\n$198\nnight\n4.92\nWood stove\nLarch Hollow\n\nFish Lake, Plain \u00b7 2 h 30 min\n\n$176\nnight\n4.88\nCanoe included\nAlder Bay Cottage\n\nCle Elum Lake \u00b7 1 h 40 min\n\n$189\nnight\n4.79\nSwim spot\nQuarry Lake House\n\nRoslyn \u00b7 1 h 50 min\n\n$205\nnight\n4.86\nPond view\nMillpond Farmhouse\n\nLeavenworth \u00b7 2 h 15 min\n\n$214\nnight\n4.81\nLake view\nStonecrop Lodge\n\nLake Chelan \u00b7 3 h 10 min\n\n$209\nnight\n4.95"
+      }
+    },
+    "hover": {
+      "file": "hover@4.png",
+      "scale": 4,
+      "rect": [
+        16,
+        350.88,
+        358,
+        357.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow all 6\nLakefront\nBest fit\nHeron Point Cabin\n\nLake Wenatchee \u00b7 2 h 20 min\n\n$198\nnight\n4.92\nWood stove\nLarch Hollow\n\nFish Lake, Plain \u00b7 2 h 30 min\n\n$176\nnight\n4.88\nCanoe included\nAlder Bay Cottage\n\nCle Elum Lake \u00b7 1 h 40 min\n\n$189\nnight\n4.79\nSwim spot\nQuarry Lake House\n\nRoslyn \u00b7 1 h 50 min\n\n$205\nnight\n4.86\nPond view\nMillpond Farmhouse\n\nLeavenworth \u00b7 2 h 15 min\n\n$214\nnight\n4.81\nLake view\nStonecrop Lodge\n\nLake Chelan \u00b7 3 h 10 min\n\n$209\nnight\n4.95"
+      }
+    },
+    "pressed": {
+      "file": "pressed@4.png",
+      "scale": 4,
+      "rect": [
+        16,
+        350.88,
+        358,
+        357.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow all 6\nLakefront\nBest fit\nHeron Point Cabin\n\nLake Wenatchee \u00b7 2 h 20 min\n\n$198\nnight\n4.92\nWood stove\nLarch Hollow\n\nFish Lake, Plain \u00b7 2 h 30 min\n\n$176\nnight\n4.88\nCanoe included\nAlder Bay Cottage\n\nCle Elum Lake \u00b7 1 h 40 min\n\n$189\nnight\n4.79\nSwim spot\nQuarry Lake House\n\nRoslyn \u00b7 1 h 50 min\n\n$205\nnight\n4.86\nPond view\nMillpond Farmhouse\n\nLeavenworth \u00b7 2 h 15 min\n\n$214\nnight\n4.81\nLake view\nStonecrop Lodge\n\nLake Chelan \u00b7 3 h 10 min\n\n$209\nnight\n4.95"
+      }
+    },
+    "change-00": {
+      "file": "change-00@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "change-01": {
+      "file": "change-01@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "change-02": {
+      "file": "change-02@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "change-03": {
+      "file": "change-03@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "change-04": {
+      "file": "change-04@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "change-05": {
+      "file": "change-05@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "change-06": {
+      "file": "change-06@4.png",
+      "scale": 4,
+      "rect": [
+        14,
+        348.88,
+        362,
+        361.08
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "changed": {
+      "file": "changed@4.png",
+      "scale": 4,
+      "rect": [
+        16,
+        350.88,
+        358,
+        358.8
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    },
+    "result": {
+      "file": "result@4.png",
+      "scale": 4,
+      "rect": [
+        16,
+        350.88,
+        358,
+        358.8
+      ],
+      "state": {
+        "theme": "dark",
+        "preference": "dark",
+        "animations": [],
+        "words": "Matching stays\n6 fit your trip\n\nShow less\nHeron Point Cabin\nBest fit\n$198 / night\nLarch Hollow\n$176 / night\nAlder Bay Cottage\n$189 / night\nQuarry Lake House\n$205 / night\nMillpond Farmhouse\n$214 / night\nStonecrop Lodge\n$209 / night"
+      }
+    }
+  },
+  "rects": {
+    "before": {
+      "page": [
+        0,
+        0,
+        390,
+        1100
+      ],
+      "piece": [
+        16,
+        350.88,
+        358,
+        357.08
+      ],
+      "target": [
+        273.13,
+        365.13,
+        87.88,
+        44
+      ]
+    },
+    "result": {
+      "page": [
+        0,
+        0,
+        390,
+        1100
+      ],
+      "piece": [
+        16,
+        350.88,
+        358,
+        358.8
+      ],
+      "target": [
+        274.34,
+        365.13,
+        86.66,
+        44
+      ]
+    }
+  },
+  "typed": {},
+  "animations": {
+    "change": {
+      "fps": 30,
+      "frames": 7,
+      "duration": 0.2,
+      "found": []
+    }
+  }
+}

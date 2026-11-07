@@ -1,0 +1,76 @@
+{
+  "url": "http://127.0.0.1:4400/?theme=light#/settings",
+  "viewport": [
+    390,
+    1100
+  ],
+  "format": "png",
+  "ready": ".theme-options",
+  "setup": "capture-setup.mjs",
+  "rects": {
+    "piece": ".theme-options",
+    "target": ".theme-option:has(input[value=\"dark\"])"
+  },
+  "inspect": "(() => ({theme:OstleryTheme.resolved,preference:OstleryTheme.preference,animations:document.getAnimations().map(a=>a.animationName||a.transitionProperty),words:document.querySelector('.theme-options').innerText}))()",
+  "steps": [
+    {
+      "rects": "before"
+    },
+    {
+      "capture": "before",
+      "around": ".theme-options",
+      "pad": 10,
+      "scale": 4
+    },
+    {
+      "eval": "capturePointer('move', '.theme-option:has(input[value=\"dark\"])')",
+      "settle": 0
+    },
+    {
+      "capture": "hover",
+      "around": ".theme-options",
+      "pad": 10,
+      "scale": 4
+    },
+    {
+      "eval": "capturePointer('down')",
+      "settle": 0
+    },
+    {
+      "capture": "pressed",
+      "around": ".theme-options",
+      "pad": 10,
+      "scale": 4
+    },
+    {
+      "animate": {
+        "eval": "capturePointer('up')"
+      },
+      "capture": "change",
+      "around": ".theme-options",
+      "pad": 10,
+      "scale": 4,
+      "duration": 0.2,
+      "fps": 30
+    },
+    {
+      "capture": "changed",
+      "around": ".theme-options",
+      "pad": 10,
+      "scale": 4
+    },
+    {
+      "eval": "capturePointer('clear'); document.activeElement.blur()",
+      "settle": 0
+    },
+    {
+      "rects": "result"
+    },
+    {
+      "capture": "result",
+      "around": ".theme-options",
+      "pad": 10,
+      "scale": 4
+    }
+  ]
+}

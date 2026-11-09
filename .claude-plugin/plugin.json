@@ -1,7 +1,7 @@
 {
   "name": "omnigami-changelog-clips",
   "displayName": "Changelog clips",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make one short UI demo per shipped change from a web app's real screens. Delivers separate silent web, square and portrait MP4/WebM clips, result posters and editable source. Use for changelog media, release-note loops and individual feature-update clips; use a whole release-film skill for a montage.",
   "author": {
     "name": "omnigami",
